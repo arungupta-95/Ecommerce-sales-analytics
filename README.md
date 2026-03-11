@@ -50,4 +50,3 @@ ecommerce-analytics/
 4. Open `.pbix` file in Power BI Desktop
 
 [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-Paste karo aur Commit changes dabao! 👇 💪
